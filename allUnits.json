@@ -1,0 +1,2342 @@
+[
+    {
+        "id": 101,
+        "unitNumber": "TS01",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 1,
+                "unitId": 101,
+                "vehicleNumber": "A101",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 101
+            },
+            {
+                "id": 2,
+                "unitId": 101,
+                "vehicleNumber": "B101",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 101
+            },
+            {
+                "id": 3,
+                "unitId": 101,
+                "vehicleNumber": "D101",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 101
+            },
+            {
+                "id": 4,
+                "unitId": 101,
+                "vehicleNumber": "C101",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 101
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "unitNumber": "TS02",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 5,
+                "unitId": 102,
+                "vehicleNumber": "A102",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 102
+            },
+            {
+                "id": 6,
+                "unitId": 102,
+                "vehicleNumber": "B102",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 102
+            },
+            {
+                "id": 7,
+                "unitId": 102,
+                "vehicleNumber": "D102",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 102
+            },
+            {
+                "id": 8,
+                "unitId": 102,
+                "vehicleNumber": "C102",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 102
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "unitNumber": "TS03",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 9,
+                "unitId": 103,
+                "vehicleNumber": "A103",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 103
+            },
+            {
+                "id": 10,
+                "unitId": 103,
+                "vehicleNumber": "B103",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 103
+            },
+            {
+                "id": 11,
+                "unitId": 103,
+                "vehicleNumber": "D103",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 103
+            },
+            {
+                "id": 12,
+                "unitId": 103,
+                "vehicleNumber": "C103",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 103
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "unitNumber": "TS04",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 13,
+                "unitId": 104,
+                "vehicleNumber": "A104",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 104
+            },
+            {
+                "id": 14,
+                "unitId": 104,
+                "vehicleNumber": "B104",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 104
+            },
+            {
+                "id": 15,
+                "unitId": 104,
+                "vehicleNumber": "D104",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 104
+            },
+            {
+                "id": 16,
+                "unitId": 104,
+                "vehicleNumber": "C104",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 104
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "unitNumber": "TS05",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 17,
+                "unitId": 105,
+                "vehicleNumber": "A105",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 105
+            },
+            {
+                "id": 18,
+                "unitId": 105,
+                "vehicleNumber": "B105",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 105
+            },
+            {
+                "id": 19,
+                "unitId": 105,
+                "vehicleNumber": "D105",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 105
+            },
+            {
+                "id": 20,
+                "unitId": 105,
+                "vehicleNumber": "C105",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 105
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "unitNumber": "TS06",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 21,
+                "unitId": 106,
+                "vehicleNumber": "A106",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 106
+            },
+            {
+                "id": 22,
+                "unitId": 106,
+                "vehicleNumber": "B106",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 106
+            },
+            {
+                "id": 23,
+                "unitId": 106,
+                "vehicleNumber": "D106",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 106
+            },
+            {
+                "id": 24,
+                "unitId": 106,
+                "vehicleNumber": "C106",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 106
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "unitNumber": "TS07",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 25,
+                "unitId": 107,
+                "vehicleNumber": "A107",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 107
+            },
+            {
+                "id": 26,
+                "unitId": 107,
+                "vehicleNumber": "B107",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 107
+            },
+            {
+                "id": 27,
+                "unitId": 107,
+                "vehicleNumber": "D107",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 107
+            },
+            {
+                "id": 28,
+                "unitId": 107,
+                "vehicleNumber": "C107",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 107
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "unitNumber": "TS08",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 29,
+                "unitId": 108,
+                "vehicleNumber": "A108",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 108
+            },
+            {
+                "id": 30,
+                "unitId": 108,
+                "vehicleNumber": "B108",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 108
+            },
+            {
+                "id": 31,
+                "unitId": 108,
+                "vehicleNumber": "D108",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 108
+            },
+            {
+                "id": 32,
+                "unitId": 108,
+                "vehicleNumber": "C108",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 108
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "unitNumber": "TS09",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 33,
+                "unitId": 109,
+                "vehicleNumber": "A109",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 109
+            },
+            {
+                "id": 34,
+                "unitId": 109,
+                "vehicleNumber": "B109",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 109
+            },
+            {
+                "id": 35,
+                "unitId": 109,
+                "vehicleNumber": "D109",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 109
+            },
+            {
+                "id": 36,
+                "unitId": 109,
+                "vehicleNumber": "C109",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 109
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "unitNumber": "TS10",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 37,
+                "unitId": 110,
+                "vehicleNumber": "A110",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 110
+            },
+            {
+                "id": 38,
+                "unitId": 110,
+                "vehicleNumber": "B110",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 110
+            },
+            {
+                "id": 39,
+                "unitId": 110,
+                "vehicleNumber": "D110",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 110
+            },
+            {
+                "id": 40,
+                "unitId": 110,
+                "vehicleNumber": "C110",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 110
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "unitNumber": "TS11",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 41,
+                "unitId": 111,
+                "vehicleNumber": "A111",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 111
+            },
+            {
+                "id": 42,
+                "unitId": 111,
+                "vehicleNumber": "B111",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 111
+            },
+            {
+                "id": 43,
+                "unitId": 111,
+                "vehicleNumber": "D111",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 111
+            },
+            {
+                "id": 44,
+                "unitId": 111,
+                "vehicleNumber": "C111",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 111
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "unitNumber": "TS12",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 45,
+                "unitId": 112,
+                "vehicleNumber": "A112",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 112
+            },
+            {
+                "id": 46,
+                "unitId": 112,
+                "vehicleNumber": "B112",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 112
+            },
+            {
+                "id": 47,
+                "unitId": 112,
+                "vehicleNumber": "D112",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 112
+            },
+            {
+                "id": 48,
+                "unitId": 112,
+                "vehicleNumber": "C112",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 112
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "unitNumber": "TS13",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 49,
+                "unitId": 113,
+                "vehicleNumber": "A113",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 113
+            },
+            {
+                "id": 50,
+                "unitId": 113,
+                "vehicleNumber": "B113",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 113
+            },
+            {
+                "id": 51,
+                "unitId": 113,
+                "vehicleNumber": "D113",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 113
+            },
+            {
+                "id": 52,
+                "unitId": 113,
+                "vehicleNumber": "C113",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 113
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "unitNumber": "TS14",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 53,
+                "unitId": 114,
+                "vehicleNumber": "A114",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 114
+            },
+            {
+                "id": 54,
+                "unitId": 114,
+                "vehicleNumber": "B114",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 114
+            },
+            {
+                "id": 55,
+                "unitId": 114,
+                "vehicleNumber": "D114",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 114
+            },
+            {
+                "id": 56,
+                "unitId": 114,
+                "vehicleNumber": "C114",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 114
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "unitNumber": "TS15",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 57,
+                "unitId": 115,
+                "vehicleNumber": "A115",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 115
+            },
+            {
+                "id": 58,
+                "unitId": 115,
+                "vehicleNumber": "B115",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 115
+            },
+            {
+                "id": 59,
+                "unitId": 115,
+                "vehicleNumber": "D115",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 115
+            },
+            {
+                "id": 60,
+                "unitId": 115,
+                "vehicleNumber": "C115",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 115
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "unitNumber": "TS16",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 61,
+                "unitId": 116,
+                "vehicleNumber": "A116",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 116
+            },
+            {
+                "id": 62,
+                "unitId": 116,
+                "vehicleNumber": "B116",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 116
+            },
+            {
+                "id": 63,
+                "unitId": 116,
+                "vehicleNumber": "D116",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 116
+            },
+            {
+                "id": 64,
+                "unitId": 116,
+                "vehicleNumber": "C116",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 116
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "unitNumber": "TS17",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 65,
+                "unitId": 117,
+                "vehicleNumber": "A117",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 117
+            },
+            {
+                "id": 66,
+                "unitId": 117,
+                "vehicleNumber": "B117",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 117
+            },
+            {
+                "id": 67,
+                "unitId": 117,
+                "vehicleNumber": "D117",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 117
+            },
+            {
+                "id": 68,
+                "unitId": 117,
+                "vehicleNumber": "C117",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 117
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "unitNumber": "TS18",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 69,
+                "unitId": 118,
+                "vehicleNumber": "A118",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 118
+            },
+            {
+                "id": 70,
+                "unitId": 118,
+                "vehicleNumber": "B118",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 118
+            },
+            {
+                "id": 71,
+                "unitId": 118,
+                "vehicleNumber": "D118",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 118
+            },
+            {
+                "id": 72,
+                "unitId": 118,
+                "vehicleNumber": "C118",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 118
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "unitNumber": "TS19",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 73,
+                "unitId": 119,
+                "vehicleNumber": "A119",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 119
+            },
+            {
+                "id": 74,
+                "unitId": 119,
+                "vehicleNumber": "B119",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 119
+            },
+            {
+                "id": 75,
+                "unitId": 119,
+                "vehicleNumber": "D119",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 119
+            },
+            {
+                "id": 76,
+                "unitId": 119,
+                "vehicleNumber": "C119",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 119
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "unitNumber": "TS20",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 77,
+                "unitId": 120,
+                "vehicleNumber": "A120",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 120
+            },
+            {
+                "id": 78,
+                "unitId": 120,
+                "vehicleNumber": "B120",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 120
+            },
+            {
+                "id": 79,
+                "unitId": 120,
+                "vehicleNumber": "D120",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 120
+            },
+            {
+                "id": 80,
+                "unitId": 120,
+                "vehicleNumber": "C120",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 120
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "unitNumber": "TS21",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 81,
+                "unitId": 121,
+                "vehicleNumber": "A121",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 121
+            },
+            {
+                "id": 82,
+                "unitId": 121,
+                "vehicleNumber": "B121",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 121
+            },
+            {
+                "id": 83,
+                "unitId": 121,
+                "vehicleNumber": "D121",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 121
+            },
+            {
+                "id": 84,
+                "unitId": 121,
+                "vehicleNumber": "C121",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 121
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "unitNumber": "TS22",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 85,
+                "unitId": 122,
+                "vehicleNumber": "A122",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 122
+            },
+            {
+                "id": 86,
+                "unitId": 122,
+                "vehicleNumber": "B122",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 122
+            },
+            {
+                "id": 87,
+                "unitId": 122,
+                "vehicleNumber": "D122",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 122
+            },
+            {
+                "id": 88,
+                "unitId": 122,
+                "vehicleNumber": "C122",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 122
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "unitNumber": "TS23",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 89,
+                "unitId": 123,
+                "vehicleNumber": "A123",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 123
+            },
+            {
+                "id": 90,
+                "unitId": 123,
+                "vehicleNumber": "B123",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 123
+            },
+            {
+                "id": 91,
+                "unitId": 123,
+                "vehicleNumber": "D123",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 123
+            },
+            {
+                "id": 92,
+                "unitId": 123,
+                "vehicleNumber": "C123",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 123
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "unitNumber": "TS24",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 93,
+                "unitId": 124,
+                "vehicleNumber": "A124",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 124
+            },
+            {
+                "id": 94,
+                "unitId": 124,
+                "vehicleNumber": "B124",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 124
+            },
+            {
+                "id": 95,
+                "unitId": 124,
+                "vehicleNumber": "D124",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 124
+            },
+            {
+                "id": 96,
+                "unitId": 124,
+                "vehicleNumber": "C124",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 124
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "unitNumber": "TS25",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 97,
+                "unitId": 125,
+                "vehicleNumber": "A125",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 125
+            },
+            {
+                "id": 98,
+                "unitId": 125,
+                "vehicleNumber": "B125",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 125
+            },
+            {
+                "id": 99,
+                "unitId": 125,
+                "vehicleNumber": "D125",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 125
+            },
+            {
+                "id": 100,
+                "unitId": 125,
+                "vehicleNumber": "C125",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 125
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "unitNumber": "TS26",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 101,
+                "unitId": 126,
+                "vehicleNumber": "A126",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 126
+            },
+            {
+                "id": 102,
+                "unitId": 126,
+                "vehicleNumber": "B126",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 126
+            },
+            {
+                "id": 103,
+                "unitId": 126,
+                "vehicleNumber": "D126",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 126
+            },
+            {
+                "id": 104,
+                "unitId": 126,
+                "vehicleNumber": "C126",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 126
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "unitNumber": "TS27",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 105,
+                "unitId": 127,
+                "vehicleNumber": "A127",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 127
+            },
+            {
+                "id": 106,
+                "unitId": 127,
+                "vehicleNumber": "B127",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 127
+            },
+            {
+                "id": 107,
+                "unitId": 127,
+                "vehicleNumber": "D127",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 127
+            },
+            {
+                "id": 108,
+                "unitId": 127,
+                "vehicleNumber": "C127",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 127
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "unitNumber": "TS28",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 109,
+                "unitId": 128,
+                "vehicleNumber": "A128",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 128
+            },
+            {
+                "id": 110,
+                "unitId": 128,
+                "vehicleNumber": "B128",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 128
+            },
+            {
+                "id": 111,
+                "unitId": 128,
+                "vehicleNumber": "D128",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 128
+            },
+            {
+                "id": 112,
+                "unitId": 128,
+                "vehicleNumber": "C128",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 128
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "unitNumber": "TS29",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 113,
+                "unitId": 129,
+                "vehicleNumber": "A129",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 129
+            },
+            {
+                "id": 114,
+                "unitId": 129,
+                "vehicleNumber": "B129",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 129
+            },
+            {
+                "id": 115,
+                "unitId": 129,
+                "vehicleNumber": "D129",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 129
+            },
+            {
+                "id": 116,
+                "unitId": 129,
+                "vehicleNumber": "C129",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 129
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "unitNumber": "TS30",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 117,
+                "unitId": 130,
+                "vehicleNumber": "A130",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 130
+            },
+            {
+                "id": 118,
+                "unitId": 130,
+                "vehicleNumber": "B130",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 130
+            },
+            {
+                "id": 119,
+                "unitId": 130,
+                "vehicleNumber": "D130",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 130
+            },
+            {
+                "id": 120,
+                "unitId": 130,
+                "vehicleNumber": "C130",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 130
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "unitNumber": "TS31",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 121,
+                "unitId": 131,
+                "vehicleNumber": "A131",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 131
+            },
+            {
+                "id": 122,
+                "unitId": 131,
+                "vehicleNumber": "B131",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 131
+            },
+            {
+                "id": 123,
+                "unitId": 131,
+                "vehicleNumber": "D131",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 131
+            },
+            {
+                "id": 124,
+                "unitId": 131,
+                "vehicleNumber": "C131",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 131
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "unitNumber": "TS32",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 125,
+                "unitId": 132,
+                "vehicleNumber": "A132",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 132
+            },
+            {
+                "id": 126,
+                "unitId": 132,
+                "vehicleNumber": "B132",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 132
+            },
+            {
+                "id": 127,
+                "unitId": 132,
+                "vehicleNumber": "D132",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 132
+            },
+            {
+                "id": 128,
+                "unitId": 132,
+                "vehicleNumber": "C132",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 132
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "unitNumber": "TS33",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 129,
+                "unitId": 133,
+                "vehicleNumber": "A133",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 133
+            },
+            {
+                "id": 130,
+                "unitId": 133,
+                "vehicleNumber": "B133",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 133
+            },
+            {
+                "id": 131,
+                "unitId": 133,
+                "vehicleNumber": "D133",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 133
+            },
+            {
+                "id": 132,
+                "unitId": 133,
+                "vehicleNumber": "C133",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 133
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "unitNumber": "TS34",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 133,
+                "unitId": 134,
+                "vehicleNumber": "A134",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 134
+            },
+            {
+                "id": 134,
+                "unitId": 134,
+                "vehicleNumber": "B134",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 134
+            },
+            {
+                "id": 135,
+                "unitId": 134,
+                "vehicleNumber": "D134",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 134
+            },
+            {
+                "id": 136,
+                "unitId": 134,
+                "vehicleNumber": "C134",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 134
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "unitNumber": "TS35",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 137,
+                "unitId": 135,
+                "vehicleNumber": "A135",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 135
+            },
+            {
+                "id": 138,
+                "unitId": 135,
+                "vehicleNumber": "B135",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 135
+            },
+            {
+                "id": 139,
+                "unitId": 135,
+                "vehicleNumber": "D135",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 135
+            },
+            {
+                "id": 140,
+                "unitId": 135,
+                "vehicleNumber": "C135",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 135
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "unitNumber": "TS36",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 141,
+                "unitId": 136,
+                "vehicleNumber": "A136",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 136
+            },
+            {
+                "id": 142,
+                "unitId": 136,
+                "vehicleNumber": "B136",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 136
+            },
+            {
+                "id": 143,
+                "unitId": 136,
+                "vehicleNumber": "D136",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 136
+            },
+            {
+                "id": 144,
+                "unitId": 136,
+                "vehicleNumber": "C136",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 136
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "unitNumber": "TS37",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 145,
+                "unitId": 137,
+                "vehicleNumber": "A137",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 137
+            },
+            {
+                "id": 146,
+                "unitId": 137,
+                "vehicleNumber": "B137",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 137
+            },
+            {
+                "id": 147,
+                "unitId": 137,
+                "vehicleNumber": "D137",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 137
+            },
+            {
+                "id": 148,
+                "unitId": 137,
+                "vehicleNumber": "C137",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 137
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "unitNumber": "TS38",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 149,
+                "unitId": 138,
+                "vehicleNumber": "A138",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 138
+            },
+            {
+                "id": 150,
+                "unitId": 138,
+                "vehicleNumber": "B138",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 138
+            },
+            {
+                "id": 151,
+                "unitId": 138,
+                "vehicleNumber": "D138",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 138
+            },
+            {
+                "id": 152,
+                "unitId": 138,
+                "vehicleNumber": "C138",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 138
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "unitNumber": "TS39",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 153,
+                "unitId": 139,
+                "vehicleNumber": "A139",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 139
+            },
+            {
+                "id": 154,
+                "unitId": 139,
+                "vehicleNumber": "B139",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 139
+            },
+            {
+                "id": 155,
+                "unitId": 139,
+                "vehicleNumber": "D139",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 139
+            },
+            {
+                "id": 156,
+                "unitId": 139,
+                "vehicleNumber": "C139",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 139
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "unitNumber": "TS40",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 157,
+                "unitId": 140,
+                "vehicleNumber": "A140",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 140
+            },
+            {
+                "id": 158,
+                "unitId": 140,
+                "vehicleNumber": "B140",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 140
+            },
+            {
+                "id": 159,
+                "unitId": 140,
+                "vehicleNumber": "D140",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 140
+            },
+            {
+                "id": 160,
+                "unitId": 140,
+                "vehicleNumber": "C140",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 140
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "unitNumber": "TS41",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 161,
+                "unitId": 141,
+                "vehicleNumber": "A141",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 141
+            },
+            {
+                "id": 162,
+                "unitId": 141,
+                "vehicleNumber": "B141",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 141
+            },
+            {
+                "id": 163,
+                "unitId": 141,
+                "vehicleNumber": "D141",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 141
+            },
+            {
+                "id": 164,
+                "unitId": 141,
+                "vehicleNumber": "C141",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 141
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "unitNumber": "TS42",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 165,
+                "unitId": 142,
+                "vehicleNumber": "A142",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 142
+            },
+            {
+                "id": 166,
+                "unitId": 142,
+                "vehicleNumber": "B142",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 142
+            },
+            {
+                "id": 167,
+                "unitId": 142,
+                "vehicleNumber": "D142",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 142
+            },
+            {
+                "id": 168,
+                "unitId": 142,
+                "vehicleNumber": "C142",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 142
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "unitNumber": "TS43",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 169,
+                "unitId": 143,
+                "vehicleNumber": "A143",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 143
+            },
+            {
+                "id": 170,
+                "unitId": 143,
+                "vehicleNumber": "B143",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 143
+            },
+            {
+                "id": 171,
+                "unitId": 143,
+                "vehicleNumber": "D143",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 143
+            },
+            {
+                "id": 172,
+                "unitId": 143,
+                "vehicleNumber": "C143",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 143
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "unitNumber": "TS44",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 173,
+                "unitId": 144,
+                "vehicleNumber": "A144",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 144
+            },
+            {
+                "id": 174,
+                "unitId": 144,
+                "vehicleNumber": "B144",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 144
+            },
+            {
+                "id": 175,
+                "unitId": 144,
+                "vehicleNumber": "D144",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 144
+            },
+            {
+                "id": 176,
+                "unitId": 144,
+                "vehicleNumber": "C144",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 144
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "unitNumber": "TS45",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 177,
+                "unitId": 145,
+                "vehicleNumber": "A145",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 145
+            },
+            {
+                "id": 178,
+                "unitId": 145,
+                "vehicleNumber": "B145",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 145
+            },
+            {
+                "id": 179,
+                "unitId": 145,
+                "vehicleNumber": "D145",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 145
+            },
+            {
+                "id": 180,
+                "unitId": 145,
+                "vehicleNumber": "C145",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 145
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "unitNumber": "TS46",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 181,
+                "unitId": 146,
+                "vehicleNumber": "A146",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 146
+            },
+            {
+                "id": 182,
+                "unitId": 146,
+                "vehicleNumber": "B146",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 146
+            },
+            {
+                "id": 183,
+                "unitId": 146,
+                "vehicleNumber": "D146",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 146
+            },
+            {
+                "id": 184,
+                "unitId": 146,
+                "vehicleNumber": "C146",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 146
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "unitNumber": "TS47",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 185,
+                "unitId": 147,
+                "vehicleNumber": "A147",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 147
+            },
+            {
+                "id": 186,
+                "unitId": 147,
+                "vehicleNumber": "B147",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 147
+            },
+            {
+                "id": 187,
+                "unitId": 147,
+                "vehicleNumber": "D147",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 147
+            },
+            {
+                "id": 188,
+                "unitId": 147,
+                "vehicleNumber": "C147",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 147
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "unitNumber": "TS48",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 189,
+                "unitId": 148,
+                "vehicleNumber": "A148",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 148
+            },
+            {
+                "id": 190,
+                "unitId": 148,
+                "vehicleNumber": "B148",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 148
+            },
+            {
+                "id": 191,
+                "unitId": 148,
+                "vehicleNumber": "D148",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 148
+            },
+            {
+                "id": 192,
+                "unitId": 148,
+                "vehicleNumber": "C148",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 148
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "unitNumber": "TS49",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 193,
+                "unitId": 149,
+                "vehicleNumber": "A149",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 149
+            },
+            {
+                "id": 194,
+                "unitId": 149,
+                "vehicleNumber": "B149",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 149
+            },
+            {
+                "id": 195,
+                "unitId": 149,
+                "vehicleNumber": "D149",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 149
+            },
+            {
+                "id": 196,
+                "unitId": 149,
+                "vehicleNumber": "C149",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 149
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "unitNumber": "TS50",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 197,
+                "unitId": 150,
+                "vehicleNumber": "A150",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 150
+            },
+            {
+                "id": 198,
+                "unitId": 150,
+                "vehicleNumber": "B150",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 150
+            },
+            {
+                "id": 199,
+                "unitId": 150,
+                "vehicleNumber": "D150",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 150
+            },
+            {
+                "id": 200,
+                "unitId": 150,
+                "vehicleNumber": "C150",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 150
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "unitNumber": "TS51",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 201,
+                "unitId": 151,
+                "vehicleNumber": "A151",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 151
+            },
+            {
+                "id": 202,
+                "unitId": 151,
+                "vehicleNumber": "B151",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 151
+            },
+            {
+                "id": 203,
+                "unitId": 151,
+                "vehicleNumber": "D151",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 151
+            },
+            {
+                "id": 204,
+                "unitId": 151,
+                "vehicleNumber": "C151",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 151
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "unitNumber": "TS52",
+        "unitType": "CMRL 1",
+        "unitPosition": 0,
+        "unitOrientation": 0,
+        "vehicles": [
+            {
+                "id": 205,
+                "unitId": 152,
+                "vehicleNumber": "A152",
+                "vehicleType": "DMC1",
+                "vehicleTypeId": null,
+                "position": 1,
+                "parentId": 152
+            },
+            {
+                "id": 206,
+                "unitId": 152,
+                "vehicleNumber": "B152",
+                "vehicleType": "TC1",
+                "vehicleTypeId": null,
+                "position": 2,
+                "parentId": 152
+            },
+            {
+                "id": 207,
+                "unitId": 152,
+                "vehicleNumber": "D152",
+                "vehicleType": "TC2",
+                "vehicleTypeId": null,
+                "position": 3,
+                "parentId": 152
+            },
+            {
+                "id": 208,
+                "unitId": 152,
+                "vehicleNumber": "C152",
+                "vehicleType": "DMC2",
+                "vehicleTypeId": null,
+                "position": 4,
+                "parentId": 152
+            }
+        ]
+    }
+]

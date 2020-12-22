@@ -1,0 +1,417 @@
+.row {
+  /*background: #f8f9fa;*/
+  
+  /*margin-top: 20px;*/
+  margin: 0;
+}
+.cv-container{
+	background-color: #8291c7;
+	border: 2px solid black;
+	width: 80%;
+	margin: 0 auto;
+  margin-top: 50px;
+}
+.cv-border-bottom-custom{
+	/*border-bottom: solid 2px black;*/
+
+}
+.cv-blank-space-custom{
+	padding: 30px;
+	border-bottom: solid 2px black;
+	border-top: 2px solid black;
+}
+.cv-cabin{
+	border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    text-align: center;
+    background-color: #fff7bd;
+}
+.cv-custom-container{
+	width: 70%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	position: relative;
+}
+.cv-cabin > .row{
+	padding: 15px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.cv-cabin img{
+	width:20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.cv-main-equipments img{
+	width: 100%;
+	margin-bottom: 1px;
+}
+.cv-main-equipments .img-div{
+	padding: 0;
+}
+.cv-switch-div{
+	width: 80%;
+}
+.cv-bypass-div,.cv-switch-div{
+	padding: 10px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #bbbcbe;
+    text-align: center;
+}
+.cv-bypass-div div,.cv-switch-div div{
+	text-align: left;
+	padding-top: 10px;
+}
+.cv-switch-div>span,.cv-bypass-div>span{
+	font-weight: bold;
+}
+/*li::marker {
+  color: hotpink;
+  font-size: 50px;
+}*/
+.cv-state{
+	display: inline-block;
+    height: 15px;
+    width: 15px;
+    /*background-color: yellow;*/
+    border-radius: 15px;
+    margin-right: 10px;
+    position: relative;
+    top: 2px;
+    margin-left: 10px;
+}
+.cv-not-active{
+	background-color: #c1e2c2;
+}
+.cv-active{
+  background-color: #ef6e61;
+}
+.cv-unknown{
+  background-color: #737375;
+}
+.cv-manual{
+  background-color: #fff083;
+}
+.cv-outer-wrapper{
+  	display: inline-block;
+    min-width: 50px;
+    padding-top: 20px;
+    position: relative;
+    margin-left: 20px;
+}
+
+.cv-column-wrapper{
+  	height: 380px;
+	width: 15px;
+	background: #CFD8DC;
+	transform: rotate(180deg);
+	margin: 0 auto;
+	display: inline-block;
+	float: left;
+}
+
+.cv-column{
+  width: 15px;
+  height: 0%;
+  background: #90A4AE;
+}
+
+.cv-percentage, .cv-value{
+  	margin-top: 10px;
+    padding: 5px 10px;
+    color: #FFF;
+    position: absolute;
+    border-radius: 4px;
+    text-align: center;
+    left: -85px;
+}
+.cv-percentage>img{
+	width: 40px;
+	margin: 5px;
+}
+.cv-value{
+    margin-top: 0;
+    border: 1px solid black;
+    border-radius: 0;
+    color: black;
+    top: 90px;
+    background: #c3d1d8;
+}
+.cv-values-measurement{
+	position: absolute;
+	right: 0;
+}
+.cv-values-measurement-zero{
+	bottom: 115px;
+	right: 30px;
+}
+.cv-values-mesurement-arrows{
+	width: 20px;
+    height: 1px;
+    display: inline-block;
+    border: 1px solid black;
+    position: relative;
+}
+
+.cv-column1{
+	background-color: #ef6e61;
+	height: 5%;
+}
+.cv-column2{
+	background-color: #f2c77a;
+	height:5%;
+}
+.cv-column3{
+	background-color: #c1e2c2;
+	height: 20%;
+}
+.cv-column4{
+	background-color: #ffd077;
+	height: 20%;
+}
+.cv-column5{
+	background-color: #ef6e61;
+	height: 50%;
+}
+.level-color{
+	display: inline-block;
+    float: left;
+    height: 380px;
+    width: 10px;
+}
+ol,
+li {
+  /* removing the default list counters/markers: */
+  list-style-type: none;
+}
+ol {
+  /* resetting the counter so every <ol>
+     has an independent count: */
+  counter-reset: marker;
+}
+li {
+  /* 'real world' measurements are perhaps not
+     entirely faithful on screen: */
+  height: 38px;
+  border-top: 1px solid #000;
+  /* including the border in the height of the element: */
+  box-sizing: border-box;
+  width: 10px;
+  /* incrementing the counter: */
+  counter-increment: marker;
+  /* to position the counter relative
+     to the <li>: */
+  position: relative;
+  /*border-left: 2px solid #000;*/
+}
+li:first-child,
+li:nth-child(odd) {
+  /* longer mark for the first and
+     every fifth marker: */
+  width: 20px;
+}
+/* preventing a 'tail' on the <ol> from the
+   height of the last <li> (the counter is
+   displayed at the top, not the bottom): */
+li:last-child {
+  height: 0;
+}
+li::after{
+	position: absolute;
+    top: -0.5em;
+    left: 100%;
+    height: 1em;
+    line-height: 1em;
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+
+li:last-child::after{
+	content: '0';
+}
+li:nth-child(9)::after{
+	content: '6250'
+}
+li:nth-child(7)::after{
+	content: '12500'
+}
+li:nth-child(5)::after{
+	content: '18750'
+}
+li:nth-child(3)::after{
+	content: '25000'
+}
+li:nth-child(1)::after{
+	content: '31250'
+}
+.cv-ruller{
+	position: absolute;
+	top:20px;
+	left: 0px;
+}
+.cv-speed-info-box{
+	text-align: center;
+    font-size: 50px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: 20%;
+    background-color: #bbbcbe;
+}
+.cv-speed-info{
+	border-bottom: 1px solid black;
+}
+.cv-diving{
+	border-bottom: 1px solid black;
+	font-size: 35px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.cv-operation-mode{
+	font-size: 35px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#cvOtherDetails{
+	margin-bottom: 50px;
+}
+.cv-forward-direction{
+	width: 45px;
+    position: absolute;
+    border: 1px solid black;
+    height: 80px;
+    top: 20px;
+    left: -46px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    background-color: #c1e2c2;
+}
+.cv-reverse-direction{
+	width: 45px;
+    position: absolute;
+    border: 1px solid black;
+    height: 80px;
+    top: 20px;
+    right: -46px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    background-color: #faaa6f;
+}
+.cv-reverse-arrow{
+  left: 5px;
+}
+.cv-slide-slip-dectection{
+	position: absolute;
+	left: 100px;
+	top: 90px;
+}
+.cv-cabin-door-state{
+	position: absolute;
+	right: -100px;
+}
+.cv-cabin-door-state>img{
+	width: 50px;
+}
+.cv-slide-slip-dectection>img{
+	width: 60px;
+}
+.cv-direction-arrow{
+	width: 40px;
+    position: relative;
+    top: 15px;
+}
+.cv-reverse-direction{
+	line-height: 78px;
+	padding-left: 15px;
+}
+.cv-active{
+	background-color: #c1e2c2;
+}
+.cv-neutralized{
+	background-color: #faaa6f;
+}
+.cv-traction-side-bar{
+	display: inline-block;
+    float: left;
+    height: 380px;
+    width: 10px;
+    background-color: #c1e2c2;
+}
+.cv-ruller-traction-bar li {
+    height: 47.5px;
+}
+
+
+.cv-ruller-traction-bar li:last-child::after{
+	content: '-100%';
+}
+.cv-ruller-traction-bar li:nth-child(7)::after{
+	content: '-50%'
+}
+.cv-ruller-traction-bar li:nth-child(5)::after{
+	content: '0%'
+}
+.cv-ruller-traction-bar li:nth-child(3)::after{
+	content: '+50%'
+}
+.cv-ruller-traction-bar li:nth-child(1)::after{
+	content: '+100%'
+}
+
+.cv-column-current{
+	background-color: black;
+}
+.cv-column-arrow{
+	position: absolute;
+    width: 40px;
+    border: 1px solid yellow;
+    left: -15px;
+    /*bottom: 50%;*/
+}
+.cv-column-arrow-triangle{
+	width: 0;
+    height: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 15px solid yellow;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+}
+.cv-voltage-triangle{
+	border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 15px solid yellow;
+    border-left: 0;
+    left: 35px;
+}
+.cv-voltage-arrow{
+	top: 60%;
+    left: 0px;
+}
+.cv-voltage-arrow{
+	top:auto;
+}
+
+.cv-platform-door-ok{
+  position: absolute;
+  width: 20px;
+  height: 4px;
+  display: block;
+  background: #c1e2c2;
+  border-radius: 4px;
+  
+}
+.cv-top{
+  top: -12px;
+}
+.cv-bottom{
+  bottom: -12px;
+}
+#trainList{
+  float: right;
+}
